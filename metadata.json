@@ -1,0 +1,6 @@
+{
+  "name": "Shield Firewall",
+  "description": "A high-density firewall app built with Material Design 3. Save mobile data and protect privacy by blocking network access for individual apps using a native VPN tunnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
